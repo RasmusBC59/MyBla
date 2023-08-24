@@ -1,0 +1,30 @@
+mybla package
+=============
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 10
+
+   mybla.conf
+   mybla.tests
+
+Submodules
+----------
+
+mybla.hello\_world module
+-------------------------
+
+.. automodule:: mybla.hello_world
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: mybla
+   :members:
+   :undoc-members:
+   :show-inheritance:

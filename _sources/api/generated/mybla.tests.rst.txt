@@ -1,0 +1,21 @@
+mybla.tests package
+===================
+
+Submodules
+----------
+
+mybla.tests.test\_installation module
+-------------------------------------
+
+.. automodule:: mybla.tests.test_installation
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: mybla.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:

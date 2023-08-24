@@ -1,0 +1,10 @@
+mybla.conf package
+==================
+
+Module contents
+---------------
+
+.. automodule:: mybla.conf
+   :members:
+   :undoc-members:
+   :show-inheritance:
